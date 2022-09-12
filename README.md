@@ -5,7 +5,6 @@
 - My focus is on .NET Core and Angular.
 - I've been working on a project for a travel office.
 - Fun fact: I enjoy the sunshine, swimming and long walks in the nearby hills.
-- Oct 2021 update: The above mentioned project is online since May 2021 with restricted access to authorized users only. Within the next month, it will be in a public repo, including integration tests for the backend.
 
 ## Languages and tools:
 - .NET Core
