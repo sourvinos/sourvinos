@@ -4,7 +4,7 @@
 - I'm a committed developer, full-time, full-stack. I don't have time for marriage, kids or pets!
 - My focus is on .NET Core and Angular.
 - I've been working on a project for a travel office. Next year (2024) it will be in its third year in production.
-- Fun fact: I enjoy the sunshine, swimming and long walks in the nearby hills.
+- Fun fact: The blank tiles in my contribution are not because I took time off, but because I was not working on the master branch!
 
 ## Languages and tools:
 - .NET Core
